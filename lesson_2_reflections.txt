@@ -1,3 +1,8 @@
 —> What happens when you initialize a repository? Why do you need to do it?
 
 I think is important to make a repository so you can keep in record all the changes made on the files and upload them together making sure everything works well! When you initialize a repository you create a few files that will store all the info needed for the history, etc.!
+
+—> How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+the staging area is the place for temporal work, where we put all the dirty work and decide what to do with it before the commit, it offers a great value so we can manage the files previous to their commit
+
