@@ -6,3 +6,7 @@ I think is important to make a repository so you can keep in record all the chan
 
 the staging area is the place for temporal work, where we put all the dirty work and decide what to do with it before the commit, it offers a great value so we can manage the files previous to their commit
 
+—> How can you use the staging area to make sure you have one commit per logical change? 
+
+If you compare the changes of the working directory files and the staging area ones before making a commit, you can see if the changes made were enough to make a new commit
+
