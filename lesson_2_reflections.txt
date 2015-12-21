@@ -10,3 +10,7 @@ the staging area is the place for temporal work, where we put all the dirty work
 
 If you compare the changes of the working directory files and the staging area ones before making a commit, you can see if the changes made were enough to make a new commit
 
+—> What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When u want to create different versions in the master without changing the original code git helps you by creating another branch and making the changes only on it!
+
